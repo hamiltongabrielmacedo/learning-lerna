@@ -1,0 +1,26 @@
+{
+  "name": "hamilton",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Hamilton <hamiltongabrielpinheiro@gmail.com>",
+  "homepage": "https://github.com/hamiltongabrielmacedo/learning-lerna#readme",
+  "license": "ISC",
+  "main": "lib/hamilton.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/hamiltongabrielmacedo/learning-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/hamiltongabrielmacedo/learning-lerna/issues"
+  }
+}
